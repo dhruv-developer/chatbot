@@ -1,0 +1,12 @@
+farm,current temperature,current humidity,current gas level,number of fans running,power consumed today,power consumed last month,power factor,line voltage,dg run today,dg run since 15 april,fuel consumed today,fuel consumed since 2023,total number of checks,mortality in farm,chicks given medicine,total expenses last month
+farm-1,25°C,60%,30%,3,500 kWh,15000 kWh,0.95,220V,50L,200L,10L,500L,100,20,50,10000$
+farm-2,22°C,55%,25%,2,400 kWh,12000 kWh,0.92,230V,40L,180L,8L,400L,90,15,40,8000$
+farm-3,27°C,65%,35%,4,600 kWh,18000 kWh,0.98,210V,60L,220L,12L,550L,110,25,60,12000$
+farm-4,20°C,50%,20%,1,300 kWh,10000 kWh,0.90,240V,30L,150L,6L,300L,80,10,30,6000$
+farm-5,23°C,58%,28%,2,450 kWh,13000 kWh,0.93,225V,45L,190L,9L,450L,95,18,45,9000$
+farm-6,26°C,62%,32%,3,550 kWh,16000 kWh,0.96,215V,55L,210L,11L,520L,105,22,55,11000$
+farm-7,21°C,52%,22%,1,350 kWh,11000 kWh,0.91,235V,35L,160L,7L,350L,85,12,35,7000$
+farm-8,24°C,57%,27%,2,480 kWh,14000 kWh,0.94,227V,48L,185L,8.5L,470L,95,17,47,9500$
+farm-9,28°C,68%,38%,4,620 kWh,19000 kWh,0.99,205V,65L,230L,13L,580L,115,28,62,12500$
+farm-10,19°C,48%,18%,1,320 kWh,10500 kWh,0.89,245V,32L,155L,6.5L,320L,75,11,32,6500$
+japan,19°C,48%,18%,1,320 kWh,10500 kWh,0.89,245V,32L,155L,6.5L,320L,75,11,32,6500$
